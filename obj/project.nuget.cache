@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7OQwNeKnW5Y=",
+  "success": true,
+  "projectFilePath": "/Users/Task/Semester 4/Software Construction (Practic)/TP 3/TP_Modul3_103022400029/TP_Modul3_103022400029.csproj",
+  "expectedPackageFiles": [
+    "/Users/ariefzaky/.nuget/packages/microsoft.windowsdesktop.app.ref/10.0.3/microsoft.windowsdesktop.app.ref.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
